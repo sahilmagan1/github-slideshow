@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Replace Line 5 with something new
+"This thing has *issues* detecting commits"
 Use the left arrow to go back!
